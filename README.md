@@ -28,7 +28,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Undergraduate Software Engineering student  
-- 🔭 Working on **full-stack & DevOps projects**
+- 🔭 Working on **full-stacks**
 - 🌱 Learning **DevOps, Cloud Computing & Linux**
 - 🛠 Interested in **CI/CD, Docker & Cloud Infrastructure**
 - ⚡ Passionate about building real-world solutions
